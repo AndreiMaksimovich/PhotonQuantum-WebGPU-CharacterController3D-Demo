@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 464954820265d48a1a0229380fbd5702, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  Identifier:
+    Path: QuantumUser/Resources/GameConfig
+    Guid:
+      Value: 273581123584004942
+  playerPrototype: {fileID: 3097001405596171208, guid: c19d9518989544c30bae7a9ee34b36c1, type: 3}
+  playerCharacterControllerConfig: {fileID: 11400000, guid: 211ab0f812c194262a1aa32452eea561, type: 2}
+  playerSprintSpeedBoost:
+    RawValue: 98304
+  playerCharacterJumpForce:
+    RawValue: 458752

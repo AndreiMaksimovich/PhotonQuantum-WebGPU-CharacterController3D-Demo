@@ -1,0 +1,4 @@
+component PlayerCharacter {
+    player_ref PlayerRef;
+    FPVector2 Direction;
+}
